@@ -28,8 +28,11 @@ Traditional board games rely heavily on dice rolls.
 Betrayal-Board introduces new layers:
 
 ✨ **Strategic decision-making**
+
 🎭 **Bluffing and deception**
+
 ⚠️ **Risk and consequence mechanics**
+
 🔥 **Chaotic late-game tension**
 
 The result is a game where **no victory is ever guaranteed** until the final moment.
@@ -253,6 +256,7 @@ Those moments are what make Betrayal-Board unique.
 ## 👨‍💻 Developed By
 
 **Abdulrehman Gulfaraz and Sajid Mehmood**
+
 BS Computer Science — UET Lahore
 
 ---
